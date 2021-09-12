@@ -9,7 +9,7 @@ extents = Vector2( 32, 32 )
 [node name="World" type="Node"]
 
 [node name="PlayerCharacter" type="KinematicBody2D" parent="."]
-position = Vector2( 362, 222 )
+position = Vector2( 107, 71 )
 script = ExtResource( 2 )
 __meta__ = {
 "_edit_group_": true
